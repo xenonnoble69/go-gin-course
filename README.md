@@ -189,7 +189,7 @@ MIT Licensed.
 ---  
 
 ## 📧 **Contact & Support**  
-- **Instructor**: [Your Name](https://github.com/xenonnoble69)  
+- **Instructor**: [Xenon](https://github.com/xenonnoble69)  
 - **GitHub Issues**: [Report Problems](https://github.com/xenonnoble69/go-gin-course/issues)  
 - **Discord**: [Join Community](https://discord.gg/twavess)  
 
