@@ -98,7 +98,7 @@ This course takes you on a complete journey through backend development using Go
 - Understanding of JSON and REST APIs
 - No prior Go experience required!
 
----
+
 
 ## 🚀 Quick Start
 
@@ -151,114 +151,6 @@ gin-gonic-course/
 ├── final-project/
 
 
----
-
-## 🎓 Learning Path
-
-### **Beginner Track** (Lessons 1-4)
-Perfect for those new to Go and web development
-- Basic concepts and syntax
-- Simple API creation
-- Request/response handling
-
-### **Intermediate Track** (Lessons 5-7)
-Build real-world applications
-- Database integration
-- User authentication
-- MVC architecture
-
-### **Advanced Track** (Lessons 8-10)
-Production-ready development
-- Advanced patterns
-- Testing strategies
-- Deployment techniques
-
----
-
-## 🏆 Final Project
-
-Put your skills to the test by building a complete **Task Management API** featuring:
-
-- ✅ User authentication and authorization
-- ✅ CRUD operations for tasks and projects
-- ✅ File upload and management
-- ✅ Real-time notifications
-- ✅ Complete test coverage
-- ✅ Docker deployment
-
----
-
-## 📖 Additional Resources
-
-### **Documentation & References**
-- [Official Gin Documentation](https://gin-gonic.com/docs/)
-- [Go Official Documentation](https://golang.org/doc/)
-- [GORM Documentation](https://gorm.io/docs/)
-
-### **Community & Support**
-- [Go Community](https://golang.org/help/)
-- [Gin GitHub Repository](https://github.com/gin-gonic/gin)
-- [Course Discussion Forum](https://github.com/xenonnoble69/go-gin-course/discussions)
-
-### **Practice Resources**
-- Code challenges and exercises
-- Real-world project ideas
-- Interview preparation materials
-
----
-
-## 🤝 Contributing
-
-We welcome contributions to make this course even better! Here's how you can help:
-
-1. **Report Issues** - Found a bug or have a suggestion?
-2. **Improve Documentation** - Help make explanations clearer
-3. **Add Examples** - Contribute additional code examples
-4. **Share Feedback** - Let us know how we can improve
-
-### **How to Contribute**
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This course is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🌟 Success Stories
-
-> *"This course transformed my understanding of backend development. The progression from basics to advanced MVC patterns was perfect!"* - **Sarah K., Software Developer**
-
-> *"The hands-on approach and real-world examples made learning Gin-Gonic enjoyable and practical."* - **Miguel R., Full Stack Developer**
-
-> *"Finally, a course that doesn't just teach syntax but shows you how to build production-ready applications!"* - **Alex T., Backend Engineer**
-
----
-
-## 📧 Contact & Support
-
-- **Instructor**: [Your Name](mohit.4019011622@ipu.ac.in)
-
-- **GitHub Issues**: [Report Problems](https://github.com/xenonnoble69gin-course/issues)
-- **Discord Community**: [Join Our Discord](https://discord.gg/twavess)
-
----
-
-<div align="center">
-
-### **Ready to Master Backend Development?**
-
-[🚀 **Start Learning Now**](lesson1) | [📖 **View Course Outline**](#-course-curriculum) | [💬 **Join Community**](https://discord.gg/twavess)
-
----
-
-**⭐ If this course helped you, please consider giving it a star!**
 
 
 </div>
